@@ -4,7 +4,7 @@ Run the following command to restore dependencies to `vendor/` directory:
 
     go mod vendor
 
-## Dynamic catalog reloading / artificial delay
+## Dynamic catalog reloading / artificial delay karan
 
 This service has a "dynamic catalog reloading" feature that is purposefully
 not well implemented. The goal of this feature is to allow you to modify the
