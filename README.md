@@ -1,6 +1,6 @@
 # productcatalogservice
 
-Run the following command to restore dependencies to `vendor/` directory:
+Run the following command to restore dependencies to `vendors/` directory:
 
     go mod vendor
 
